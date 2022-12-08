@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author Edupass
+ * @author Natalia, Mateus, Marco
  *
  */
 module TiposDeBolo {
