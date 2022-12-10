@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Edupass
- *
- */
-module SistemaConfeitaria {
-}
